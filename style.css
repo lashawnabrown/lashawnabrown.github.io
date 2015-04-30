@@ -1,0 +1,23 @@
+/*
+Color Scheme:
+#C3AAB6 -lightest color
+#E961A1
+#DF2E82
+#99215A
+#64354B - darkest color
+*/
+
+body{
+	text-align: center;
+	background-color: #EE69A6;
+}
+a:hover{
+	color: #682B47;
+	}
+a{
+	color: #460120;
+	}
+	ul{
+		list-style-type: none;
+		padding-left: 0px;
+	}
