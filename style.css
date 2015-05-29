@@ -9,7 +9,7 @@ Color Scheme:
 
 body{
 	text-align: center;
-	background-color: #EE69A6;
+	background-color: #E73A95;
 }
 a:hover{
 	color: #682B47;
@@ -20,4 +20,20 @@ a{
 	ul{
 		list-style-type: none;
 		padding-left: 0px;
+	} 
+	img{
+		border: 1px solid blacks;
+		width: 150px;
+		height: 150px;
 	}
+nav{
+	list-style-type: center;
+	margin: 0.5em;
+	border: 1px solid black;
+	padding: 0.25px;
+	background-color: #E768AB;
+
+}
+P{
+	color: white;
+}
